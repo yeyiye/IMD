@@ -25,9 +25,9 @@ Flutter的热重载帮助你快捷方便的试验、重构UI、添加特性和�
 
 Flutter的主要结构包括：
 
-+Flutter engine
-+Foundation library
-+Design-specific widgets
++ Flutter engine
++ Foundation library
++ Design-specific widgets
 
 
 
